@@ -12,6 +12,6 @@ I'm a FOSS advocate 💼 and Python Developer 💻!
 </h2> 
 
 - 🔭 I’m currently working on linux system administration
-- 🌱 I’m currently learning vim, rust, python
+- 🌱 I’m currently learning vim, rust
 - ⚡ Fun fact: FOSS ftw.
 
