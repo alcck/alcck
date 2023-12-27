@@ -4,7 +4,7 @@ Hi there, I'm Alcck</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a FOSS advocate 💼 and Systems Programmer 💻!
+I'm a FOSS advocate 💻!
 </h2> 
 
 - 🔭 I’m currently working on linux system administration
