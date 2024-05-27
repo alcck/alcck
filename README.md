@@ -1,6 +1,6 @@
 
 <h3 align="center">
-Hi there, I'm Alcck</a> 👋
+Hi there, I'm Gokce</a> 👋
 </h3>
 
 <h2 align="center">
