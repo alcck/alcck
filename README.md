@@ -7,7 +7,7 @@ Hi there, I'm Gokce</a> 👋
 I'm a FOSS advocate 💻 and am interesed in database management 🗄️!
 </h2> 
 
-- 🔭 I’m currently working on linux system administration
-- 🌱 I’m currently learning vim
+- 🔭 I’m currently learning further linux system administration
+- 🌱 And consistently trying to get fluent in vim
 - ⚡ Fun fact: FOSS ftw.
 
