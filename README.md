@@ -4,7 +4,7 @@ Hi there, I'm Gokce</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a FOSS advocate 💻 and am interesed in Linux systems 🗄️!
+I'm a FOSS advocate 💻 and am interesed in Database Management 🗄️!
 </h2> 
 
 - 🔭 I’m currently learning further linux system administration
