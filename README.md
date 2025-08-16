@@ -8,6 +8,6 @@ I'm a FOSS advocate 💻 and am interesed full stack development 🗄️!
 </h2> 
 
 - 🔭 I’m currently learning further linux system administration
-- 🌱 And consistently trying to get fluent in vim
+- 🌱 [CV](https://g.co/gemini/share/f1a7de622cb1)
 - ⚡ Fun fact: FOSS ftw.
 
