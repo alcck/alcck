@@ -7,7 +7,7 @@ Hi there, I'm Gokce</a> 👋
 I'm a FOSS advocate 💻 and am interesed full stack development 🗄️!
 </h2> 
 
-- 🔭 I’m currently learning react and go.
+- 🔭 I’m currently learning react and C#.
 - 🌱 [CV](https://alcck.github.io/CV/)
 - ⚡ Fun fact: FOSS ftw.
 
